@@ -1,0 +1,6 @@
+# Keys added to this file will be automatically 
+# copied to your authorized_keys file by the JumpCloud agent.
+# Constructed by the JumpCloud agent, you can add keys manually in /home/a.shevchuk/.ssh/authorized_keys.jcorig
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCXzbnv1rb535HfCqnEcaluhs+5vYg96P3OiUmdrlhvZbiLSwY5NtcOymzSA9ny0vMYkUcVqG+22YhJwPpkUnwWlV+Sut2/4hcaPsEQCRJqtHDT/i1dwUgOLRjkvkoy7VdMhNzBAylEETeUImjg+GHFHuauFKJGQxTGSNArO9Qdmz3dMxLbKAgVQDMTd78ARPlpBQdHOOrHtEa+qJ7GSXQLzVkihlDYo0c8eVLuvKcMwVFNZkM+b0pnD2blO9VcK2apCuGqAuCx3Q7kXL+beI4lqbZwA2AlcZyOpfq1KNynjjACIC71Dowh4PffEfLVoQiO5WP9UcYGNQxv30l8zkzI38ETpWUL/fmNWiNOkj3n1q5ntvq4/7XW/GNe6fMqPj8F+77JMwKgNZAcw1enMm4Xu0v8OQVWJjs7nEK9C+6iueK/6jcAxCv3y7pWw7SnLuPHK2xPTWbZBStLXPzeL17/Iq08QIXMudwFIU2YnqT+uJCkDr2Pytr4G7E24Pmydqc= a.shevchuk@ws-35
+
